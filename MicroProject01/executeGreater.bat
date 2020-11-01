@@ -1,0 +1,1 @@
+strcmp03.exe zzz aaa
